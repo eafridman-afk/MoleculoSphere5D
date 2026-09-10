@@ -72,14 +72,22 @@ export default function MoleculoApp() {
             {panelOpen ? <X className="size-5" /> : <Menu className="size-5" />}
           </button>
 
-          {/* Always-visible publication disclaimer */}
+          {/* Always-visible publication disclaimer + license */}
           <div
             className="pointer-events-none absolute inset-x-0 bottom-0 z-10 border-t border-amber-500/25 bg-amber-950/80 px-3 py-1.5 backdrop-blur-sm"
             role="note"
             aria-label="Publication disclaimer"
           >
-            <p className="text-center text-[9px] leading-snug text-amber-50/95 sm:text-[10px]">
-              {PUBLICATION_DISCLAIMER}
+            <p className="pointer-events-auto text-center text-[9px] leading-snug text-amber-50/95 sm:text-[10px]">
+              {PUBLICATION_DISCLAIMER}{" "}
+              <a
+                href="https://github.com/eafridman-afk/MoleculoSphere5D/blob/main/LICENSE"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline underline-offset-2"
+              >
+                Source-available. LICENSE. Not for AI training.
+              </a>
             </p>
           </div>
         </div>
