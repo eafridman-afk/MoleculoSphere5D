@@ -1,0 +1,30 @@
+# MoleculoSphere 5D AI policy
+# Canonical rules: ./AI_USAGE.md
+#
+# This software is not licensed as training or evaluation data.
+
+User-Agent: *
+Disallow: /
+
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: Google-Extended
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: Bytespider
+Disallow: /
+
+User-Agent: Amazonbot
+Disallow: /
+
+User-Agent: ClaudeBot
+Disallow: /
+
+License: LicenseRef-MoleculoSphere-SA-1.0
+Contact: eafridman@biochemdefensetech.com
+See-Also: ./AI_USAGE.md
+See-Also: https://github.com/eafridman-afk/MoleculoSphere5D/blob/main/AI_USAGE.md
