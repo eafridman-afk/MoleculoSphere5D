@@ -11,9 +11,10 @@
 
 ## One-click Vercel rename (makes the branded URL live)
 
-This cannot be done from GitHub. In the Vercel account that owns the project:
+This cannot be done from GitHub. There is no Vercel token in this workspace.
+In the BCDT Vercel team that owns the project:
 
-1. Open the project that is currently named `amber-brick-stone-moss`.
+1. Open https://vercel.com/bcdt/amber-brick-stone-moss/settings
 2. **Settings → General → Project Name** → set to `MoleculoSphere5D` → Save.
 3. Wait ~30 s. Confirm https://moleculosphere5d.vercel.app/ loads the same v1.1 public Beta.
 4. The old slug usually keeps working as a redirect. Do **not** create a second Vercel project (that would fork deploys).
