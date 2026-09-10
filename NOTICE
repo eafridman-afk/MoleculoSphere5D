@@ -1,0 +1,19 @@
+MoleculoSphere 5D
+Copyright (c) 2026 Esteban A. Fridman and BioChem Defense Technology
+
+This repository does not contain, and this license does not cover:
+- the 5H-EAF chemical composition
+- unpublished computational or experimental results
+- provisional patent applications and their claims
+
+Related scientific manuscripts on ChemRxiv are licensed only under
+the terms of those deposits (often CC BY). A CC BY paper is not a
+license to the composition, and it is not a license to this software.
+ChemRxiv ≠ this repository. Do not treat preprint reuse as a license
+to the app, the molecule, or contractor/eval tasks.
+
+Scientific disclaimer
+Classical continuum electrostatics only. Educational / hypothesis-
+generation tool. Not MD, docking, or coordination chemistry.
+Not a structural model of any protein, toxin, or receptor.
+No biological claim without independent validation.

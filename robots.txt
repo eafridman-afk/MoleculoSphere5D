@@ -1,0 +1,27 @@
+# MoleculoSphere 5D
+# Source-available educational app. Not licensed as AI training data.
+# Served on Vercel from public/robots.txt as /robots.txt
+# See llms.txt, ai.txt, LICENSE, NOTICE, and AI_USAGE.md
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+# Generic scrapers: do not harvest validation exports for corpora.
+User-agent: *
+Disallow: /exports
+Disallow: /exports/

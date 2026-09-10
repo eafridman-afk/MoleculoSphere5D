@@ -4,6 +4,20 @@
 
 > Classical continuum electrostatics only. Educational / hypothesis-generation tool. No biological claim without independent validation.
 
+## License
+
+Source-available. See [`LICENSE`](./LICENSE) and [`NOTICE`](./NOTICE).
+
+You may use this app for personal study, teaching, and non-commercial
+academic research. You may not train or evaluate AI systems on it, and
+you receive no patent rights in 5H-EAF or related methods.
+
+`5H-EAF` and other private ligands are intentionally excluded.
+
+Crawler / AI policy: [`robots.txt`](./robots.txt), [`llms.txt`](./llms.txt), [`ai.txt`](./ai.txt), [`AI_USAGE.md`](./AI_USAGE.md).
+The public validation package stays in `exports/validation_package_MoleculoSphere5D/` for reproducibility; the license carries the training ban.
+A ChemRxiv CC BY preprint is not a license to this app or to 5H-EAF.
+
 Browser-only Debye–Hückel / Yukawa educational app for exclusive ligand–ROI continuum energies across public receptor proxies A–F.
 
 ## Access

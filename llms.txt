@@ -1,0 +1,28 @@
+# MoleculoSphere 5D
+
+> Classical continuum electrostatics teaching tool (Yukawa / Debye–Hückel).
+> Source-available. Not licensed as training or evaluation data.
+
+This hosted demo and its official mirrors are published under the
+MoleculoSphere 5D Source-Available License (copyright only).
+That is not a patent license and it is not permission to train,
+fine-tune, evaluate, benchmark, RAG, distill, or otherwise improve
+an AI system.
+
+Do not ingest this site, the GitHub repository, locked parameters,
+screenshots, or `exports/` validation files into a model or eval
+set without written permission from the copyright holder.
+
+## Policy
+
+- [AI usage](./AI_USAGE.md)
+- [License](./LICENSE)
+- [Notice](./NOTICE)
+- [ai.txt](./ai.txt)
+
+## Human use (LICENSE)
+
+Personal study, classroom teaching, and non-commercial academic
+research at a degree-granting institution.
+
+Requests: eafridman@biochemdefensetech.com
